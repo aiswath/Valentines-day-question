@@ -7,15 +7,15 @@
 
 }
 
-body{
-    width: 100%;
-    min-height: 100vh;
+body {
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    height: 100vh;
+    margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ffe5f5;
-    padding: 20px;
 }
+
 
 .container {
     display: flex;
